@@ -1,2 +1,1 @@
-# microservices
-An example
+# Microservices Example
